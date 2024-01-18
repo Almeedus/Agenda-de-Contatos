@@ -61,7 +61,7 @@ def apagar_contato(agenda, posicao_contato):
             print('Operação cancelada.')
      else:
           print('Indice incorreto.')
-     ...
+     return
 
 agenda = []
 while True:
